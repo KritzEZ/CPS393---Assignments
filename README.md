@@ -4,11 +4,13 @@ This repository contains 2 term assignments from the course.
 Assignment 1 contains shell scripts.
 Assignment 2 contains C code.
  # Assignment Instructions
- <details>
-  Assignment 1
-  <br>
-  <pre>
-  CPS393 Assignment 1
+<details>
+<summary>
+Assignment 1
+</summary>
+<br>
+<pre>
+CPS393 Assignment 1
 
 You can view this file in a number of ways:
 just look at this raw html (e.g, cat, more, vim, etc)
@@ -85,5 +87,5 @@ To Check your Marks: use D2L
 
 If the submit programs are not in your path, you can use their absolute path name, as in:
 /usr/courses/bin/x86_64/submit-cps393dwoit filename
-  </pre>
-  </details>
+</pre>
+</details>
