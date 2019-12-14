@@ -26,13 +26,13 @@ The environment variable $LOGNAME will be useful.
 When I ran the program (I am user dwoit) in early August, on thebe, my program cleared the screen, and then produced the output below, (the part including, and between, the lines of dashes.)
 Note that your program should output plain text, with NO color changes. The red color below is used only to identify those parts of your output that should NOT be hardcoded. Note that your program should also clear the screen before displaying its output.
 
--------------------------------------------------------------------------------
+"-------------------------------------------------------------------------------
 This machine is thebe.
 7 users have logged into thebe since Thu Aug 1; they are:
 aabhari,amirul,dwoit,iwoungan,mes,neshel,s4ghaffa.
 Thebe is at IP Address 141.117.57.46 and is running Operating System Ubuntu 16.04.6 LTS.
 You are dwoit, and you have logged in 2 times since Thu Aug 1.
--------------------------------------------------------------------------------
+"-------------------------------------------------------------------------------
 
 IMPORTANT:
 Your program must use only variables, pipes, and bash shell commands.
