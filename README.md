@@ -1,9 +1,9 @@
 # CPS393 - Assignments
 <h3>Introduction to UNIX, C and C++</h3>
-This repository contains 2 term assignments from the course.
-Assignment 1 contains shell scripts.
-Assignment 2 contains C code.
- # Assignment Instructions
+This repository contains 2 term assignments from the course. <br>
+Assignment 1 contains shell scripts. <br>
+Assignment 2 contains C code. <br>
+<h1>Assignment Instructions</h1>
 <details>
 <summary>
 Assignment 1
